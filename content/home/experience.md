@@ -18,27 +18,58 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Group Leader"
+  company = "Karlsruhe Institute of Technology"
+  company_url = "https://www.kit.edu"
+  location = "Karlsruhe, Germany"
+  date_start = "2018-11-15"
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Leading the Photochemistry research group
+  * Conceiving new projects, applying for funding
+  * Co-teaching "Additive Manufacturing for Process Engineering"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Lecturer in Chemical Engineering"
+  company = "Imperial College London"
+  company_url = "https://imperial.ac.uk"
+  location = "London, UK"
+  date_start = "2015-05-01"
+  date_end = "2018-11-15"
+  description = """
+  Responsibilities included:
+
+  * Leader of personal research group, co-founder of the
+  Barrer Centre
+  * Developed novel membrane synthesis and characterisation techniques, including for photoresponsive materials
+  * Taught various undergraduat and postgraduate courses
+  """
+
+[[experience]]
+  title = "Associate Professor of Chemical Engineering"
+  company = "Monash University"
+  company_url = "https://monash.edu"
+  location = "Melbourne, Australia"
+  date_start = "2009-01-01"
+  date_end = "2015-05-01"
+
+[[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "The University of Queensland"
+  company_url = "https://www.uq.edu.au"
+  location = "Brisbane, Australia"
+  date_start = "2007-09-01"
+  date_end = "2008-12-01"
+
+[[experience]]
+  title = "Postdoctoral Research Engineer"
+  company = "École nationale supèrieure des industries chimiques (ENSIC)/CNRS"
+  company_url = "https://ensic.univ-lorraine.fr"
+  location = "Nancy, France"
+  date_start = "2006-06-01"
+  date_end = "2007-08-01"
+
 
 +++
