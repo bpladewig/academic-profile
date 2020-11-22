@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Photochemistry in micro flow channel reactors with optical in situ sensing"
+title: "Photoresponsive Azo-UiO-66 Mixed Matrix Membranes for CO2/N2 Separation"
 event: AIChE Annual Meeting 2020 (Virtual)
 event_url:
 location:
@@ -16,20 +16,18 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-18T17:00:00+01:00
-# date_end: 2020-11-22T16:04:40+01:00
+date: 2020-11-20T17:00:00+01:00
+date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-22T16:04:40+01:00
+publishDate: 2020-11-22T19:37:23+01:00
 
-authors: [Roland Dittmeyer, Jun Li, Bradley Ladewig]
+authors: [Nicolaus Prasetya, Bradley Ladewig]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -52,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/j3U1cawbzo0
+url_video: https://youtu.be/IEIb8TJm90w
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,8 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [promise]
+projects: [membranes]
 ---
 This talk was presented as part of a poster and pre-recorded video presentation at the 2020 AIChE Annual Meeting.
-
-{{< youtube j3U1cawbzo0 >}}
+{{< youtube IEIb8TJm90w >}}
