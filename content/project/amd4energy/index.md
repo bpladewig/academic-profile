@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-AMD4Energy is a collaborative project funded by the KIT Excellence Inititative.
+AMD4Energy is a collaborative project funded by the KIT Excellence Inititative. This is going to be exciting.
