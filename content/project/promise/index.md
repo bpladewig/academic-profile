@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The Promise project is a DFG funded Research Unit, and is a collaboration with Uni Freiburg and KIT Karlsruhe.
