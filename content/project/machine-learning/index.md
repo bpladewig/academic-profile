@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This is a preliminary project exploring the potential for Machine Learning in Chemical Engineering research. It is a collaboration with Alexander Stroh and Pascal Friederich.
+This is a preliminary project exploring the potential for Machine Learning in Chemical Engineering research. It is a collaboration with Alexander Stroh and Pascal Friederich. We want to do great things.
