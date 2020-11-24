@@ -39,4 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-AMD4Energy is a collaborative project funded by the KIT Excellence Initiative. We work together with IBCS-FMS.  And we will have robots!
+AMD4Energy is a collaborative project funded by the KIT Excellence Initiative. Over 24 months, we will design and build a materials development framework that greatly accelerates the process of materials discovery.
+
+Specifically, we aim to prepare two new materials synthesis and testing systems;
+- photochemical homogeneous CO2 conversion, and
+- electrochemical hetergeneous CO2 conversion.
+
+The two project leaders are Dr. Nicole Jung, who is head of the photochemical catalysis, and Dr. Bradley Ladewig, who is heading up the electrochemical conversion.
