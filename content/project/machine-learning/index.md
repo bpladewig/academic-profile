@@ -45,4 +45,4 @@ In our preliminary work, we have shown that it is possible to create a dataset o
 
 We aim to extend this concept to design of more complex, real-world engineering devices, which we can build and test in the laboratory. Our long-term plan is to design complex three-dimensional structures for challenging chemical engineering unit operations (such as contacting of multiple phases for intensified reactions in microfludic channels), structures which are so complex they cannot be manufactured using conventional methods and need to be printed using a metal 3D printer.
 
-The excellent metal 3D printing design and manufacturing facilities in the IMVT will be utilised, including a Selective Laser Melting (SLM) printer and a binder jetting printer.
+The excellent metal 3D printing design and manufacturing facilities in the IMVT will be utilised, including a Selective Laser Melting (SLM) printer and a binder jetting printer. In addition, advanced design and analysis software from Siemens is available.
