@@ -20,6 +20,7 @@ interests:
 - Membranes
 - Advanced materials
 - Machine learning
+- Flow Photochemistry
 
 education:
   courses:
