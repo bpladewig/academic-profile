@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Membrane research has been the core interest of the Ladewig Group since first forming an independent research group at Monash University in 2009. 
