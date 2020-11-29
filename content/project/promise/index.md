@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The Promise project is a DFG funded Research Unit, and is a collaboration with Uni Freiburg and KIT Karlsruhe. Bradley Ladewig is the leader of Project 3 (TP3).
+The Promise project is a DFG funded Research Unit, and is a collaboration with Uni Freiburg and KIT Karlsruhe. Bradley Ladewig is the leader of Project 3 (TP3) on photochemical reactors.
