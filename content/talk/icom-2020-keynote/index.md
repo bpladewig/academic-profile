@@ -21,7 +21,7 @@ date_end: 2020-12-07T09:30:00+00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-02T13:10:19+01:00
+publishDate: 2020-12-02T10:10:19+01:00
 
 authors: [Bradley Ladewig (speaker) and Nicolaus Prasetya]
 tags: []
