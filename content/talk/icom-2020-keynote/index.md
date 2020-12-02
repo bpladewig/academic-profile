@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-02T10:10:19+01:00
 
-authors: [Bradley Ladewig (speaker) and Nicolaus Prasetya]
+authors: [Bradley Ladewig and Nicolaus Prasetya]
 tags: []
 
 # Is this a featured talk? (true/false)
