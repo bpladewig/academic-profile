@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [membranes]
 ---
+This presentation will be given live at the conference, and be available for later on-demand viewing.
