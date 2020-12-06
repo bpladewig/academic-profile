@@ -66,4 +66,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [membranes]
 ---
-This presentation will be given live at the conference, and be available for later on-demand viewing.
+This presentation was presented live on 7th December 2020 at the ICOM2020 conference (held online).
+
+{{< youtube 5OMl6kUKS2w >}}

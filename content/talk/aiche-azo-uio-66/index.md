@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-11-22T19:37:23+01:00
 
-authors: [Nicolaus Prasetya, Bradley Ladewig]
+authors: [Nicholaus Prasetya, Bradley Ladewig]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -67,4 +67,5 @@ slides: ""
 projects: [membranes]
 ---
 This talk was presented as part of a poster and pre-recorded video presentation at the 2020 AIChE Annual Meeting.
+
 {{< youtube IEIb8TJm90w >}}
