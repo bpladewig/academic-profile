@@ -46,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: files/Ladewig-ICOM2020-Keynote.pdf
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/5OMl6kUKS2w
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
