@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-url: https://twitter.com/AMD4Energy
+url: twitter.com/AMD4Energy
 icon_pack: fab
 icon: twitter
 
