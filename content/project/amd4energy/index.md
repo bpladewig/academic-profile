@@ -6,7 +6,7 @@ summary: "Accelerated materials development for Advanced Energy Applications"
 authors: [Bradley Ladewig, Nicole Jung, Stefan Bräse, Roland Dittmeyer]
 tags: []
 categories: []
-date: []
+date: [2021-01-21T16:20:53+01:00]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
