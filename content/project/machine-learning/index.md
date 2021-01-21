@@ -6,7 +6,7 @@ summary: ""
 #authors: [Pascal Friederich, Alexander Stroh, Bradley Ladewig]
 tags: []
 categories: []
-# date: []
+date: [2021-01-21]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Predictions of the CNN model of a) drag coefficient Cf and b) Stanton number St compared to the ground truth on a validation set."
-  focal_point: "Center"
+  caption: "Predictions of the CNN model of a) drag coefficient $C_f$ and b) Stanton number St compared to the ground truth on a validation set."
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).
