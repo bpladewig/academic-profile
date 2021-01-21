@@ -14,8 +14,8 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: featured.png
-  caption: ""
+image:
+  caption: "Predictions of the CNN model of a) drag coefficient Cf and b) Stanton number St compared to the ground truth on a validation set."
   focal_point: "Center"
   preview_only: false
 
