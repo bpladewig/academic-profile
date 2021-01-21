@@ -3,10 +3,10 @@
 
 title: "Machine Learning"
 summary: ""
-authors: [Pascal Friederich, Alexander Stroh, Bradley Ladewig]
+#authors: [Pascal Friederich, Alexander Stroh, Bradley Ladewig]
 tags: []
 categories: []
-date: []
+# date: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
