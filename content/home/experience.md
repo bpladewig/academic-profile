@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   * Leader of personal research group, co-founder of the
   Barrer Centre
   * Developed novel membrane synthesis and characterisation techniques, including for photoresponsive materials
-  * Taught various undergraduat and postgraduate courses
+  * Taught various undergraduate and postgraduate courses
   """
 
 [[experience]]
