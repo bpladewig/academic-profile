@@ -47,4 +47,4 @@ We aim to extend this concept to design of more complex, real-world engineering 
 
 The excellent metal 3D printing design and manufacturing facilities in the IMVT will be utilised, including a Selective Laser Melting (SLM) printer and a binder jetting printer. In addition, advanced design and analysis software from Siemens is available.
 
-Our preliminary results are available as a preprint on arXiv.
+Our preliminary results are available as a preprint on arXiv. [https://arxiv.org/abs/2101.08130](https://arxiv.org/abs/2101.08130) 
