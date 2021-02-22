@@ -21,6 +21,7 @@ interests:
 - Advanced materials
 - Machine learning
 - Flow Photochemistry
+- CO2 Electroreduction
 
 education:
   courses:
