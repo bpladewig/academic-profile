@@ -49,6 +49,10 @@ The excellent metal 3D printing design and manufacturing facilities in the IMVT 
 
 Our preliminary results are available as a preprint on arXiv. [https://arxiv.org/abs/2101.08130](https://arxiv.org/abs/2101.08130)
 
-The video below describes our work in some more detail.
+The video below describes our work.
 
 {{< youtube 5054M6JRIyc >}}
+
+This project is the first collaboration between Alexander Stroh (ISTM), Pascal Friederich (IAI) and Bradley Ladewig (IMVT). We were assisted by Matthias Schniewind, PhD student of Pascal Friederich. Below we talk about how enjoyable this interdisciplinary collaboration was.
+
+{{< youtube -dmVR7E0uxg >}}
