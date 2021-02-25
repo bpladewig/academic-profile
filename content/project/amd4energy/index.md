@@ -45,4 +45,4 @@ Specifically, we aim to prepare two new materials synthesis and testing systems;
 - photochemical homogeneous CO2 conversion, and
 - electrochemical hetergeneous CO2 conversion.
 
-The two project leaders are Dr. Nicole Jung, who is head of the photochemical catalysis, and Dr. Bradley Ladewig, who is heading up the electrochemical conversion. Mr Fridolin Wackermann is employed to work on this project, and assistance is also provided by Dr. Angela Ewinger. A postdoc will soon be appointed to assist.
+The two project leaders are Dr. Nicole Jung, who is head of the photochemical catalysis, and Dr. Bradley Ladewig, who is heading up the electrochemical conversion. Mr Fridolin Wackermann is employed to work on this project, and assistance is also provided by Dr. Angela Ewinger. A postdoc will soon be appointed to assist with this project.
